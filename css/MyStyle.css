@@ -1,0 +1,32 @@
+nav {
+    background-color:rgb(97, 88, 255);
+    background-position:relative;
+    background-size:auto;
+    padding-bottom:.1in;
+    font-size:xx-large;
+    font-style:bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+.mainbackground { position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(20rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+                }
+.navtleft {
+        position:absolute;
+        top:5px;
+        left:0px;
+        
+             }
+
+.navright {
+            position: absolute;
+            top: 5px;
+            right:0px;
+}
+.navtext {color:black
+            }
